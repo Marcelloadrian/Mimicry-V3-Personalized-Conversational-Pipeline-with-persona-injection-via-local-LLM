@@ -1,0 +1,2 @@
+# Mimicry-V3-Personalized-Conversational-Pipeline-with-persona-injection-via-local-LLM
+Mimicry V3 represents a significant evolution in persona-based chatbot architecture, integrating Hybrid Intent Classification with a local LLM pipeline. Moving beyond simple sequence modeling, V3 utilizes an intent-aware system that leverages a structured JSON Knowledge Base and few-shot prompting to achieve high-accuracy persona replication.
